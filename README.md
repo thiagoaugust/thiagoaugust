@@ -1,7 +1,7 @@
 ### Olá, me chamo Thiago Rasquino. Bem-vindo(a) ao meu GitHub. 👋
 
 - 🔭 Atualmente trabalho com a linguagem Java e utilizo o framework Spring.
-- 🌱 Eu estou estudando Clean Archtecture e Design Patterns
+- 🌱 Estou estudando Clean Archtecture e Design Patterns
 - 👯 Estou buscando contribuir em projetos Open Source que possam ajudar as pessoas.
 
 <div>
